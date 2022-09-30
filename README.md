@@ -1,5 +1,6 @@
 # Collatz Conjecture
 ### Unsolved problem in mathematics: Does the Collatz sequence eventually reach 1 for all positive integer initial values? The Collatz conjecture is one of the most famous unsolved problems in mathematics.
+![picture](https://d2r55xnwy6nx47.cloudfront.net/uploads/2019/12/CollatzGraph_1300Lede.jpg)
 ## The rules for the Collatz Conjecture
 ### If the number is even you divide by two, if its odd you multiply it by 3 and add a one. 
 >C(n) = (3n+1)/2^x
