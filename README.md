@@ -5,6 +5,7 @@
 ### If the number is even you divide by two, if its odd you multiply it by 3 and add a one. 
 >C(n) = (3n+1)/2^x
 ## How this program works
+> there are 2 version, infnite and normal for infinte open collatzinf, the work is pretty much the same except it uses sys.maxsize to get the largest number
 ### At first it starts an infnite loop
 ![Loop](https://cdn.discordapp.com/attachments/875826551571222538/1025399573327396925/unknown.png)
 ### Then we have an int input which allows the user to input any number for the collatz conjecture to apply the formula
